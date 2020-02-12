@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddad071b-3f36-4912-b8eb-a3904cf14c77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XiLbdoH44BFEadF6BgfMDd09Z2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Die" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Die" />
+      <module name="DieKatas.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Die" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddad071b-3f36-4912-b8eb-a3904cf14c77" name="Default Changelist" comment="" />
+      <created>1581524040415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581524040415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="99" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1581530265659">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="491" y="99" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581530265659" />
+    <state x="440" y="27" width="476" height="708" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581528920089">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="440" y="27" width="476" height="708" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581528920089" />
+    <state x="416" y="129" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1581535327761">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="416" y="129" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581535327761" />
+    <state width="1320" height="146" key="GridCell.Tab.0.bottom" timestamp="1581541184946">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="146" key="GridCell.Tab.0.bottom/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581541184946" />
+    <state width="1320" height="146" key="GridCell.Tab.0.center" timestamp="1581541184946">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="146" key="GridCell.Tab.0.center/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581541184946" />
+    <state width="1320" height="146" key="GridCell.Tab.0.left" timestamp="1581541184946">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="146" key="GridCell.Tab.0.left/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581541184946" />
+    <state width="1320" height="146" key="GridCell.Tab.0.right" timestamp="1581541184946">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="146" key="GridCell.Tab.0.right/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581541184946" />
+    <state width="1320" height="206" key="GridCell.Tab.1.bottom" timestamp="1581541184927">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="206" key="GridCell.Tab.1.bottom/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581541184927" />
+    <state width="1320" height="206" key="GridCell.Tab.1.center" timestamp="1581541184927">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="206" key="GridCell.Tab.1.center/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581541184927" />
+    <state width="1320" height="206" key="GridCell.Tab.1.left" timestamp="1581541184927">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="206" key="GridCell.Tab.1.left/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581541184927" />
+    <state width="1320" height="206" key="GridCell.Tab.1.right" timestamp="1581541184927">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="206" key="GridCell.Tab.1.right/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581541184927" />
+    <state x="428" y="27" width="500" height="708" key="refactoring.ChangeSignatureDialog" timestamp="1581535354696">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="428" y="27" width="500" height="708" key="refactoring.ChangeSignatureDialog/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581535354696" />
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup" timestamp="1581530257370">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup/0.27.1366.708/1366.0.1366.768@0.27.1366.708" timestamp="1581530257370" />
+  </component>
+</project>
